@@ -10,7 +10,7 @@
     "connect": "^3.7.0",
     "dompurify": "^2.3.8",
     "http-live-simulator": "^1.0.4",
-    "moment": "^2.15.1",
+    "moment": "^2.29.2",
     "node-srv": "2.2.2",
     "react": "^18.1.0",
     "react-bootstrap": "^2.4.0",
